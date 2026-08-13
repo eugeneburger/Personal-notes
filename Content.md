@@ -1,4 +1,4 @@
-**VI:**
+# VI:
 Vi is a model text editor used in Unix systems. It uses command mode to navigate and edit, and insert mode to type text.
 Press esc to return to command mode and type : to save/quit options.
 vi filename - open or create a file

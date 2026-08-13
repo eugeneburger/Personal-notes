@@ -1,10 +1,11 @@
-**VI:**
-Vi is a model text editor used in Unix systems. It uses command mode to navigate and edit, and insert mode to type text.
-Press esc to return to command mode and type : to save/quit options.
-vi filename - open or create a file
-:w - to save the file
-:wq or zz - to save and quit
-:q! - quit without saving changes
+**VI:**. 
+
+Vi is a model text editor used in Unix systems. It uses command mode to navigate and edit, and insert mode to type text.  
+Press esc to return to command mode and type : to save/quit options.  
+vi filename - open or create a file.  
+:w - to save the file.  
+:wq or zz - to save and quit.  
+:q! - quit without saving changes   
 i - insert text before the cursor
 a - append text after the cursor
 o - open a new line below the current line
